@@ -34,6 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-react-app", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:18.2.0"],\
+            ["react-icons", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:4.7.1"],\
             ["react-router-dom", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:6.8.0"],\
             ["react-scripts", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:5.0.1"],\
             ["tailwindcss", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:3.2.4"],\
@@ -14572,6 +14573,28 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["react-icons", [\
+        ["npm:4.7.1", {\
+          "packageLocation": "./.yarn/cache/react-icons-npm-4.7.1-27c284b383-ed3cbdc5fc.zip/node_modules/react-icons/",\
+          "packageDependencies": [\
+            ["react-icons", "npm:4.7.1"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:4.7.1", {\
+          "packageLocation": "./.yarn/__virtual__/react-icons-virtual-c5020198e9/0/cache/react-icons-npm-4.7.1-27c284b383-ed3cbdc5fc.zip/node_modules/react-icons/",\
+          "packageDependencies": [\
+            ["react-icons", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:4.7.1"],\
+            ["@types/react", null],\
+            ["react", "npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react",\
+            "react"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["react-is", [\
         ["npm:16.13.1", {\
           "packageLocation": "./.yarn/cache/react-is-npm-16.13.1-a9b9382b4f-f7a19ac349.zip/node_modules/react-is/",\
@@ -17532,6 +17555,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-react-app", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:18.2.0"],\
+            ["react-icons", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:4.7.1"],\
             ["react-router-dom", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:6.8.0"],\
             ["react-scripts", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:5.0.1"],\
             ["tailwindcss", "virtual:3dc9b44043a4606a640ea0c9758aaef7bca0a2ce8dc0f2aed4832a5bf19ba16d50d4f0749a721d6902c6ed93677a12dd0e25e4d45c01c0b81ce9dafdad2f1625#npm:3.2.4"],\
