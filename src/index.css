@@ -22,5 +22,5 @@ code {
   width: 100%;
   margin: auto; */
 
-  @apply max-w-5xl w-full m-auto;
+  @apply max-w-7xl w-full m-auto;
 }
