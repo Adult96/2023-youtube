@@ -18,8 +18,9 @@ export default class Youtube {
       .search({
         params: {
           part: 'snippet',
-          maxResults: 25,
           relatedToVideoId: id,
+          type: 'video',
+          maxResults: 25,
         },
       })
       .then(res =>
