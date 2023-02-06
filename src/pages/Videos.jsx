@@ -1,10 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
-import VideoList from '../components/video-list/VideoList';
-import VideoItem from '../components/video-item/VideoItem';
-import FakeYoutube from '../api/fakeYoutubeClient';
-import Youtube from '../api/youtubeClient';
+import VideoItem from '../components/VideoItem';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function Videos() {
@@ -19,20 +16,12 @@ export default function Videos() {
     queryKey: ['videos', keyword],
     queryFn: () => youtube.search(keyword),
     staleTime: 1000 * 60 * 5,
-    onSuccess: () => {
-      console.log(videos);
-    },
   });
-
-  // if (isLoading) return <p>Loding...</p>;
-  // if (error) return <p>error...</p>;
 
   return (
     <div>
       {isLoading && <p>Loding...</p>}
       {error && <p>error...</p>}
-
-      {/* <VideoList videos={videos} /> */}
       {videos && (
         <ul className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4'>
           {videos.map(video => (

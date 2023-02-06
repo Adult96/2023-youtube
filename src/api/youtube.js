@@ -7,6 +7,26 @@ export default class Youtube {
     return keyword ? this.#serchByKeyword(keyword) : this.#mostPopular();
   }
 
+  async channelImageURL(id) {
+    return this.apiClient
+      .channels({ params: { part: 'snippet', id } })
+      .then(res => res.data.items[0].snippet.thumbnails.default.url);
+  }
+
+  async relatedVideo(id) {
+    return this.apiClient
+      .search({
+        params: {
+          part: 'snippet',
+          maxResults: 25,
+          relatedToVideoId: id,
+        },
+      })
+      .then(res =>
+        res.data.items.map(item => ({ ...item, id: item.id.videoId }))
+      );
+  }
+
   async #serchByKeyword(keyword) {
     return this.apiClient
       .search({
@@ -17,15 +37,16 @@ export default class Youtube {
           type: 'video',
         },
       })
-      .then(res => res.data.items)
-      .then(items => items.map(item => ({ ...item, id: item.id.videoId })));
+      .then(res =>
+        res.data.items.map(item => ({ ...item, id: item.id.videoId }))
+      );
   }
 
   async #mostPopular() {
     return this.apiClient
       .videos({
         params: {
-          part: 'snippet%2CcontentDetails%2Cstatistics',
+          part: 'snippet',
           maxResults: 25,
           chart: 'mostPopular',
           regionCode: 'KR',

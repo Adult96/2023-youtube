@@ -18,7 +18,7 @@ export default function Search() {
   }, [keyword]);
 
   return (
-    <div className='w-full flex p-4 border-b border-zinc-600 mb-4'>
+    <header className='w-full flex p-4 border-b border-zinc-600 mb-4'>
       <Link to='/' className='flex items-center cursor-pointer'>
         <BsYoutube className='text-brand text-4xl ' />
         <h1 className='font-bold text-3xl ml-2'>YouTube</h1>
@@ -35,6 +35,6 @@ export default function Search() {
           <BsSearch />
         </button>
       </form>
-    </div>
+    </header>
   );
 }

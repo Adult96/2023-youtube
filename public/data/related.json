@@ -1,0 +1,1101 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NKVkSKB0PUJ59naCm71EEVmPmEc",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YKKZfpVOyWY3FbbdukxmbpqFK2o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tnGpaZBNBw8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T09:29:31Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "Ditto - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230120 방송",
+        "description": "Ditto - 뉴진스(NewJeans)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#Ditto #가요 #가수 #음악 #케이팝 #뉴진스 #NewJeans #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tnGpaZBNBw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tnGpaZBNBw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tnGpaZBNBw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tnGpaZBNBw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tnGpaZBNBw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T09:29:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1HOWdMYGf-q1ZZtILqqUuQvSTOE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PsGe2R92x2U"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T10:20:36Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "Ditto - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230127 방송",
+        "description": "Ditto - 뉴진스(NewJeans)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#Ditto #가요 #가수 #음악 #케이팝 #뉴진스 #NewJeans #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PsGe2R92x2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PsGe2R92x2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PsGe2R92x2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PsGe2R92x2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PsGe2R92x2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T10:20:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H6cdEL_DpmR0UrnJMFSwJsgYcbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6MN1EsAnmkQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-25T13:05:59Z",
+        "channelId": "UCK1sVuXaDvJeNwl9noN5nOA",
+        "title": "뉴진스, ‘Hype boy & Attention’ 축하공연 [제43회 청룡영화상 시상식] | KBS 221125 방송",
+        "description": "뉴진스, ‘Hype boy & Attention’ 축하공연\n\n#청룡영화상 #2022청룡영화상 #제43회청룡영화상 #청룡영화상하이라이트 #김혜수 #유연석 #뉴진스 #축하공연 #Hypeboy #Attention #NewJeans #제43회청룡영화상시상식 \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/@KBSEnt\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6MN1EsAnmkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6MN1EsAnmkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6MN1EsAnmkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6MN1EsAnmkQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6MN1EsAnmkQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Entertain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-25T13:05:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TePKi_DNus8QTLgdWTmi1QBqYlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jUNz-uTF--E"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-19T05:33:41Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[단독샷캠4K] 뉴진스 'Ditto' 단독샷 별도녹화│NewJeans ONE TAKE STAGE @SBS Inkigayo 230115",
+        "description": "[단독샷캠4K] 뉴진스 'Ditto' 단독샷 별도녹화│NewJeans ONE TAKE STAGE @SBS Inkigayo 230115\n(Ft. 스탠다드 별도녹화)\n\n#인기가요 #뉴진스 #Ditto\n---------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jUNz-uTF--E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jUNz-uTF--E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jUNz-uTF--E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jUNz-uTF--E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jUNz-uTF--E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-19T05:33:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XhfNpGZMDviqodJ2Pgfp0GQr6Ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hzfXLHR0psg"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-28T08:15:17Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "2023년은 토끼해라던데!?🐰 Attention부터 Hype boy, Hurt까지 뉴진스 모든 무대 몰아보기 | NewJeans Stage Compilation",
+        "description": "2023년 토끼의 해를 시작부터 접수하러 올 #뉴진스 의 컴백 기념🎉 \n아기토끼들의 레전드 데뷔 무대 어텐션부터 연말 무대 하입보이까지 \n빠짐없이 꾹꾹 눌러 담은 뉴진스 무대 모음으로 신년에도 껑충 뛰어볼까요?🐇\n\n🎵 #NewJeans 무대 몰아보기 PLAY LIST🎵\n00:00 Attention\n3:11 Hype boy\n6:16 Hype boy\n9:26 Hurt\n12:21 Intro + Attention + Hype boy - 2022 KBS 가요대축제\n\n\n#StudioK #뮤직뱅크 #MusicBank  \n#Choreography\n\nMore from #KBSKPOP\nTwitter:       https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hzfXLHR0psg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hzfXLHR0psg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzfXLHR0psg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hzfXLHR0psg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hzfXLHR0psg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-28T08:15:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ppvTrEq4wsndGcGWwAQcoD5qoBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CHp0Kaidr14"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-05T12:21:05Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[뮤뱅 원테이크 4K] 뉴진스(NewJeans) 'Attention' 4K Bonus Ver. @뮤직뱅크(Music Bank) 220805",
+        "description": "#NewJeans #뉴진스 #Attention #원테이크 #원테이크4K\n\nMore from #KBSKPOP\n\nTwitter: https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CHp0Kaidr14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CHp0Kaidr14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CHp0Kaidr14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CHp0Kaidr14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CHp0Kaidr14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-05T12:21:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q-_SBnszVVkuQP---DDYLav-thA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mn5ZzRZ9yto"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T08:03:58Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)",
+        "description": "[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T08:03:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hFFNwvwFtPSAqN7kOksSp0XVW1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I1SkIO4LFbw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T09:34:47Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "ANTIFRAGILE - LE SSERAFIM  [뮤직뱅크/Music Bank] | KBS 221028 방송",
+        "description": "ANTIFRAGILE - LE SSERAFIM \nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#ANTIFRAGILE #가요 #가수 #음악 #케이팝 #LESSERAFIM #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I1SkIO4LFbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I1SkIO4LFbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I1SkIO4LFbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I1SkIO4LFbw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I1SkIO4LFbw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T09:34:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NGQHyslF3fagakRknfywr6LPP5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "11cta61wi0g"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-17T04:51:57Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)",
+        "description": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Dongle Shin\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\n\n#NewJeans #뉴진스\n#HypeBoy #NewJeans_HypeBoy\n#NewJeans_1st_EP #WeareNewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-17T04:51:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BIjCrhjWo86a1Lg5zN57P78mXUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vPNbwwrs0A0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T07:38:21Z",
+        "channelId": "UCVyhgRCO6WREp3-3dL1-odQ",
+        "title": "[4K] NewJeans(뉴진스) - 'OMG' | Performance Clip #Multiview #NewJeans",
+        "description": "#NewJeans #OMG #뉴진스\n✅Multiview 보러 가기 👉 https://navernow.onelink.me/o5cK/multiview\n\n🐰뉴진스🐰 OMG 멀티뷰 NOW.에서 독점공개 👀\n\n📌내가 원하는 뷰로 골라 보자!\n다양한 앵글로 아티스트의 퍼포먼스를 감상할 수 있는 NOW. Multiview\n지금 바로 네이버앱과 나우앱에서 만나보세요💖\n👉 1/14(토)~1/20(금) : 09:00~24:00 NOW.에서 방송 중\n\n📌Click what you want to watch!\nChoose your favorite New Jeans member's performance in various angles.\nONLY AVAILABLE ON NAVER and NOW APP.💖\n👉 1/14(SAT)~1/20(FRI) : 09:00~24:00\n\n🐰Multiview NewJeans🐰\n✅NOW. 앱에서 다시 보기 👉 https://navernow.onelink.me/o5cK/multiview",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "네이버 NOW.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T07:38:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vwuqZUOQMY92ZTc08UT24f1UWPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_LkTypFq1Uc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T18:06:51Z",
+        "channelId": "UCMVI3vcdy64e23-fT9zX4zA",
+        "title": "NewJeans (뉴진스) 'Ditto' 디토 교차편집 Stage Mix",
+        "description": "뉴진스 디토 음악방송 교차편집 영상\nNewJeans Ditto stage mix edit\n\n#newjeans #ditto #뉴진스\n#하니 #해린",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_LkTypFq1Uc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_LkTypFq1Uc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_LkTypFq1Uc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_LkTypFq1Uc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_LkTypFq1Uc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Belief yoon 빌리프윤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T18:06:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cucqK3vtzsXX9-qAAByB7Md8RVQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iXM99GTJWsk"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-19T09:34:18Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "Hype boy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220819 방송",
+        "description": "Hype boy - 뉴진스(NewJeans)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#Hypeboy #가요 #가수 #음악 #케이팝 #뉴진스 #NewJeans #뮤직뱅크 #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iXM99GTJWsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iXM99GTJWsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iXM99GTJWsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iXM99GTJWsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iXM99GTJWsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-19T09:34:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M0pQFV4fwUh8CqOXxHWsTqBXovU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xFRcx5M2onY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T09:19:26Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Ditto - NewJeans [Music Bank] | KBS WORLD TV 230120",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n\n#Minji #LeeChaeMin\n\n\nFri 17:05 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n\n#Ditto #NewJeans",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xFRcx5M2onY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xFRcx5M2onY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xFRcx5M2onY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xFRcx5M2onY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xFRcx5M2onY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T09:19:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i6FqA5yo-5CdpDfV-vtF-iWwoe0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l4udcYOFCOU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-14T16:04:06Z",
+        "channelId": "UC920m3pMPH45qztdhppZhwA",
+        "title": "(ENG)라따따따 내 심장을 울린~ ★뉴진스★의 A to Z🥰 #highlight #highlight#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.172",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#유퀴즈 #유재석 #조세호\n유퀴즈온더블럭 YOU QUIZ ON THE BLOCK EP.172\n#어텐션\n매주 (수) 저녁 8시 40분 tvN 방송\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l4udcYOFCOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l4udcYOFCOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l4udcYOFCOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l4udcYOFCOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l4udcYOFCOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유 퀴즈 온 더 튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-14T16:04:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cx-sMZQFQuVPQ78mh9WuKc8zEaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cKlEE_EYuNM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-19T05:19:10Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE Pre-release english track \"MOONLIGHT SUNRISE\" M/V",
+        "description": "TWICE Pre-release english track \"MOONLIGHT SUNRISE\" M/V\n\nRelease on 2023.01.20 FRI 2PM KST/0AM EST\n\n💗Listen \"MOONLIGHT SUNRISE\" HERE👇\nhttps://TWICE.lnk.to/MoonlightSunrise\n \nTWICE Official Shop: https://TWICE.lnk.to/Shop\nTWICE Official YouTube: http://www.youtube.com/c/TWICE\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official TikTok: https://www.tiktok.com/@twice_tiktok_official\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\nⓒ 2023 JYP Entertainment. All Rights Reserved\n\n#TWICE #MOONLIGHTSUNRISE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cKlEE_EYuNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-19T05:19:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NLuDmKyDpmS2Z9zjrBF1qS2SHeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0R-tkdX8UUw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T07:59:57Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[뮤뱅 원테이크 4K] 뉴진스(NewJeans) 'OMG' 4K Bonus Ver. @뮤직뱅크(Music Bank) 230120",
+        "description": "#NewJeans #뉴진스 #OMG #원테이크 #원테이크4K\n\nMore from #KBSKPOP\n\nTwitter:       https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0R-tkdX8UUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0R-tkdX8UUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0R-tkdX8UUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0R-tkdX8UUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0R-tkdX8UUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T07:59:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "39FG8fxicqm9X_Wu1FztjKiPZKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GZkSOYN-V4g"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T11:47:43Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[뮤뱅 원테이크 4K] 뉴진스(NewJeans) 'Ditto' 4K Bonus Ver. @뮤직뱅크(Music Bank) 230127",
+        "description": "#NewJeans #뉴진스 #Ditto #원테이크 #원테이크4K\n\nMore from #KBSKPOP\n\nTwitter:       https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZkSOYN-V4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZkSOYN-V4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZkSOYN-V4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GZkSOYN-V4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GZkSOYN-V4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T11:47:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jcIjtcrr2jUK3gHFgZOE3OsoJYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Km71Rr9K-Bw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T05:55:42Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "NewJeans (뉴진스) 'Ditto' Performance Video",
+        "description": "NewJeans (뉴진스) 'Ditto' Performance Video\n\nProducer: MIN HEE JIN\nPerformance Video Direction: Yemin Kim\nPerformance Video Director: Jakyoung Kim\nPerformance Director: EunJu Kim, YoungHoo Kim\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#NewJeans_of_Winter\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T05:55:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F_4NiTqIdqoiAciSpx_HiGvY5TU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TpKZI6Jdci4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:29:07Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "Sugar Rush Ride - TOMORROW X TOGETHER [뮤직뱅크/Music Bank] | KBS 230127 방송",
+        "description": "Sugar Rush Ride - TOMORROW X TOGETHER\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#SugarRushRide #가요 #가수 #음악 #케이팝 #TOMORROWXTOGETHER #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:29:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RswQOHbjlw5C2VwSpMf6LIwaFdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8NFnxU8Ly1A"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T06:58:01Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[뮤뱅 원테이크 4K] 뉴진스(NewJeans) 'Ditto' 4K Bonus Ver. @뮤직뱅크(Music Bank) 230120",
+        "description": "#NewJeans #뉴진스 #Ditto #원테이크 #원테이크4K\n\nMore from #KBSKPOP\n\nTwitter:       https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8NFnxU8Ly1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8NFnxU8Ly1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8NFnxU8Ly1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8NFnxU8Ly1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8NFnxU8Ly1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T06:58:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cAsc2LM2GzYiVB0__YFlPpKO1wI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tLC7zwC_Ls4"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-22T08:41:06Z",
+        "channelId": "UC3m0s5XAQydCtbLHc8j1Uog",
+        "title": "[OH뭐지🎧] 청량함에 Attention 할 수밖에 없는 다섯소녀🐰 뉴진스(NewJeans) 노래모음🍭ㅣKBS 방송",
+        "description": "청량+청순+풋풋=뉴진스💙\n모두 눈정화하라구👀✨\n\n#뮤직뱅크 #MusicBank #뉴진스 #NewJeans #KBS\n\n🎵뉴진스(NewJeans) PLAYLIST🎵\n00:00 Attention\n03:48 Hype boy\n06:54 Hurt\n\n⭐Edited By. 한세희⭐",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS 한국방송",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-22T08:41:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PDgbCZ2L3UfjW_-pTePvqTxWn1o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1hcdQixxJdA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T09:25:12Z",
+        "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+        "title": "뉴진스 (NewJeans) _ OMG | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 4K | 민지 하니 다니엘 해린 혜인",
+        "description": "뉴진스 (NewJeans) _ OMG | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 4K | 민지 하니 다니엘 해린 혜인\n\n#뉴진스#OMG#New1theKOriginal#1theK#원더케이#원더케이오리지널\n\n여러분이 선택한 하나의 킬포인트는\n⚡OMG + Crab Dance 춤 (0:49, 1:48)⚡ 입니다!\n\n📌조회수 300만 달성시 \"1theKILLPO Eye Contact\" 공개 예정!\n\n00:00 뉴진스(NewJeans) - OMG\n00:49 ⚡ Kill Point - OMG + Crab Dance (1)\n1:19 뉴진스(NewJeans) - OMG\n1:48 ⚡ Kill Point - OMG + Crab Dance (2)\n2:19 뉴진스(NewJeans) - OMG\n2:21 Red Light, Green Light Dance\n----------------------------------------------------------------------------\nK-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움이 여기에,\n다양한 원더케이 오리지널 컨텐츠를 만나보세요!\n----------------------------------------------------------------------------\nK-POP Wonderland, 1theK\n\nAll the joys of K-pop here!\n1theK has a wide variety of Original Content\n----------------------------------------------------------------------------\n\n▶1theK YT : https://www.youtube.com/1theK\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK Kakao : https://goo.gl/otRpZc\n▶1theK TikTok : https://vt.tiktok.com/2mSMBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hcdQixxJdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hcdQixxJdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hcdQixxJdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1hcdQixxJdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1hcdQixxJdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1theK Originals - 원더케이 오리지널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-04T09:25:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mfUSrSDx_DQkzHhgTzOEWYp4aEU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BF7BCE9qU3A"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-28T13:15:44Z",
+        "channelId": "UC4scK1OtvoEa95nmjdsPjYg",
+        "title": "[4K] NewJeans (뉴진스) Attention (어텐션) 교차편집 (Stage Mix)",
+        "description": "#NewJeans #뉴진스 #Attention",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BF7BCE9qU3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BF7BCE9qU3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BF7BCE9qU3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BF7BCE9qU3A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BF7BCE9qU3A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SoulYeon솔연",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-28T13:15:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UoUP8hOx6I_7_Y88Tl_Fv9EDiKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vEbPFhNSgzk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-24T13:46:47Z",
+        "channelId": "UCmjNKt6kITwaZTqvWuaSPLg",
+        "title": "뉴진스(NewJeans), 상큼하고 발랄한 무대 ＜Tell Me(원더걸스)♬＞ #SBS가요대전 #SBSenter",
+        "description": "2022 SBS 가요대전 뉴진스(NewJeans) - Tell Me 무대를 공개합니다.\n\n‘2022 SBS 가요대전(2022sbsgayo)’\n☞ 12월 24일 오후 7시 30분 본방송\n\n#SBS가요대전 #뉴진스 #TellMe\n\n▶ Homepage : https://www.sbs.co.kr/tv/enter\n▶ Subscribe SBS Entertainment : https://bit.ly/2SpOhMC\n\n*프로그램 다시 보기\n\n✔ SBS홈페이지:\nhttps://programs.sbs.co.kr/tv/youtube?co=youtube&type=tv&content_id=E463805660&yt_channel=SBSEntertainment\n✔ WAVVE:\nhttps://www.wavve.com/player/vod?contentid=S01_E463805660.1&utm_campaign=2022_SBS&utm_source=youtube&utm_medium=movcon&utm_contents=SBSEntertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vEbPFhNSgzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vEbPFhNSgzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vEbPFhNSgzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vEbPFhNSgzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vEbPFhNSgzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-24T13:46:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l0eMEW6eeFU_-NWFE_iFs1xepGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X8jjlicVUyY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T12:25:46Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230120 방송",
+        "description": "OMG - 뉴진스(NewJeans)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#OMG #가요 #가수 #음악 #케이팝 #뉴진스 #NewJeans #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T12:25:46Z"
+      }
+    }
+  ]
+}

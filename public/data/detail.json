@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "ssrMUORejqbtkKuCVTxtyWIKVS0",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "C1KGDtBPkAly06M521bLiWqtSZ0",
+      "id": "UCPx-7AKiN1Z_qEVKhLQ5pAw",
+      "snippet": {
+        "title": "달리 [SBS 교양 공식채널]",
+        "description": "재밌게 똑똑해지는 채널!\n다르게 재밌고, 다르게 교양적인\nSBS 교양 공식채널 '달리'입니다.\n\n✔협찬 문의 : sbsdali@gmail.com\n\n▶Contents Copyright & Sales Inquiry : contentspartner@sbs.co.kr \nⓒSBS. Corp ALL RIGHTS RESERVED",
+        "customUrl": "@sbs_dali",
+        "publishedAt": "2020-05-07T06:04:42.688244Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWNENx1z_xFyROJM7sQEXLa40SW11eJSfNbL3al=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWNENx1z_xFyROJM7sQEXLa40SW11eJSfNbL3al=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWNENx1z_xFyROJM7sQEXLa40SW11eJSfNbL3al=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "달리 [SBS 교양 공식채널]",
+          "description": "재밌게 똑똑해지는 채널!\n다르게 재밌고, 다르게 교양적인\nSBS 교양 공식채널 '달리'입니다.\n\n✔협찬 문의 : sbsdali@gmail.com\n\n▶Contents Copyright & Sales Inquiry : contentspartner@sbs.co.kr \nⓒSBS. Corp ALL RIGHTS RESERVED"
+        },
+        "country": "KR"
+      }
+    }
+  ]
+}
