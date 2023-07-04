@@ -1,4 +1,4 @@
-export default function viewTotalCount(count) {
+export default function viewTotalCount(count: string) {
   const cntToNum = Number(count);
   if (cntToNum > 100000000) {
     return `조회수 ${Math.round(cntToNum / 100000000)}억회`;

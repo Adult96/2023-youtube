@@ -2,8 +2,13 @@ import React from 'react';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
 import VideoItem from './VideoItem';
+import { VideoParamType } from '../types/client';
 
-export default function RelatedVideos({ id }) {
+interface RelatedVideosProps {
+  id: string;
+}
+
+export default function RelatedVideos({ id }: RelatedVideosProps) {
   const { youtube } = useYoutubeApi();
 
   const {
@@ -22,7 +27,7 @@ export default function RelatedVideos({ id }) {
       {error && <p>error...</p>}
       {related && (
         <ul>
-          {related.map(video => (
+          {related.map((video: VideoParamType) => (
             <VideoItem key={video.id} video={video} type='list' />
           ))}
         </ul>

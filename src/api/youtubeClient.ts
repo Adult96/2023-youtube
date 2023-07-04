@@ -1,6 +1,9 @@
-import axios from 'axios';
+import axios, { AxiosInstance } from 'axios';
+import { YoutubeClientInterface, YoutubeParams } from '../types/client';
 
-export default class YoutubeClient {
+export default class YoutubeClient implements YoutubeClientInterface {
+  private httpClient: AxiosInstance;
+
   constructor() {
     this.httpClient = axios.create({
       baseURL: 'https://youtube.googleapis.com/youtube/v3/',
@@ -8,15 +11,15 @@ export default class YoutubeClient {
     });
   }
 
-  async search(params) {
+  async search(params: YoutubeParams) {
     return this.httpClient.get('search', params);
   }
 
-  async videos(params) {
+  async videos(params: YoutubeParams) {
     return this.httpClient.get('videos', params);
   }
 
-  async channels(params) {
+  async channels(params: YoutubeParams) {
     return this.httpClient.get('channels', params);
   }
 }

@@ -1,4 +1,4 @@
-export default function formatAgo(data) {
+export default function formatAgo(data: string) {
   const nowDate = new Date();
   const date = new Date(data);
   const year = nowDate.getFullYear() - date.getFullYear();

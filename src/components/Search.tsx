@@ -7,7 +7,7 @@ export default function Search() {
   const [search, setSearch] = useState('');
   const navigate = useNavigate();
 
-  const handleSubmit = e => {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     navigate(`/videos/${search}`);
     setSearch('');
@@ -23,7 +23,10 @@ export default function Search() {
         <BsYoutube className='text-brand text-4xl ' />
         <h1 className='font-bold text-3xl ml-2'>YouTube</h1>
       </Link>
-      <form className='w-full flex justify-center' onSubmit={handleSubmit}>
+      <form
+        className='w-full flex justify-center'
+        onSubmit={e => handleSubmit(e)}
+      >
         <input
           className='w-7/12 outline-none text-gray-50 bg-black p-2 '
           type='text'

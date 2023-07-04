@@ -2,7 +2,12 @@ import React from 'react';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
 
-export default function ChannelInfo({ id, name }) {
+interface ChannelInfoProps {
+  id: string;
+  name: string;
+}
+
+export default function ChannelInfo({ id, name }: ChannelInfoProps) {
   const { youtube } = useYoutubeApi();
 
   const { data: url } = useQuery(

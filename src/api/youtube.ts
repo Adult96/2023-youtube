@@ -1,19 +1,27 @@
+import { YoutubeClientInterface } from '../types/client';
+
+interface Item {
+  id: {
+    videoId: string;
+  };
+}
+
 export default class Youtube {
-  constructor(apiClient) {
+  constructor(private apiClient: YoutubeClientInterface) {
     this.apiClient = apiClient;
   }
 
-  async search(keyword) {
+  async search(keyword: string | undefined) {
     return keyword ? this.#serchByKeyword(keyword) : this.#mostPopular();
   }
 
-  async channelImageURL(id) {
+  async channelImageURL(id: string) {
     return this.apiClient
       .channels({ params: { part: 'snippet', id } })
       .then(res => res.data.items[0].snippet.thumbnails.default.url);
   }
 
-  async relatedVideo(id) {
+  async relatedVideo(id: string) {
     return this.apiClient
       .search({
         params: {
@@ -24,11 +32,11 @@ export default class Youtube {
         },
       })
       .then(res =>
-        res.data.items.map(item => ({ ...item, id: item.id.videoId }))
+        res.data.items.map((item: Item) => ({ ...item, id: item.id.videoId }))
       );
   }
 
-  async #serchByKeyword(keyword) {
+  async #serchByKeyword(keyword: string) {
     return this.apiClient
       .search({
         params: {
@@ -39,7 +47,7 @@ export default class Youtube {
         },
       })
       .then(res =>
-        res.data.items.map(item => ({ ...item, id: item.id.videoId }))
+        res.data.items.map((item: Item) => ({ ...item, id: item.id.videoId }))
       );
   }
 
